@@ -2,3 +2,5 @@ a) Some of the benefits of Agile development is that it emphasizes an iterative 
 
 b) The role and responsibilities of a Scrum Master is to manage all scrum related tasks. This will include JIRA tooling, faciliating sprints and meetings, and making sure the Scrum is up to date. A Product Owner will set the direction of the project for the team, handle releases, and stakeholder management.
 
+c) The three types of meeting that happens during a sprint cycle are: sprint planning meetings, daily scrum/standup meetings, and sprint retrospective meeting. During sprint planning meetings, the team determines what tasks to complete in the coming sprint, move sprints from the backlog to the current sprint, and determine story points to delegate work to finally start the sprint. A sprint retrospective meeting occurs at the end of a sprint where a team will discuss work completed and move incomplete work back the backlog to finally close the sprint.
+
