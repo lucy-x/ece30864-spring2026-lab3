@@ -1,1 +1,4 @@
 a) Some of the benefits of Agile development is that it emphasizes an iterative approach to work. By breaking down a project into several stages, it makes it easier to collaborate with customers and make changes to the project. With Agile development, usable products can be released more frequently based on actual customer feedback. However, some of the downsides to Agile development is its unpredictability compared to non-Agile development. Unlike the Waterfall method, there is no concrete steps and phases to the final product. Additionally, managing and reprioritizing tasks can become messy and stressful if delivery dates and tasks are constantly updating.  
+
+b) The role and responsibilities of a Scrum Master is to manage all scrum related tasks. This will include JIRA tooling, faciliating sprints and meetings, and making sure the Scrum is up to date. A Product Owner will set the direction of the project for the team, handle releases, and stakeholder management.
+
